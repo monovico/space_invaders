@@ -9,17 +9,7 @@ pygame.init()
 
 
 
-clock = pygame.time.Clock()
-fps = 60
-
-
-screen_width = 600
-screen_height = 800
-
-screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('Space Invaders')
-
-
+clock =
 
 
 font30 = pygame.font.SysFont('Constantia', 30)
